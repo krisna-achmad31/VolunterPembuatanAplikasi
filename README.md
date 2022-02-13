@@ -8,4 +8,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* Sindy Chairunisa, [Linkedin](https://www.linkedin.com/in/sindy-chairunisa-b8716418a/).
+* Sindy Chairunisa, [Linkedind](https://www.linkedin.com/in/sindy-chairunisa-b8716418a/)
